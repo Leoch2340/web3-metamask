@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web3-metamask/static/css/main.66670165.css",
+    "main.js": "/web3-metamask/static/js/main.65c15123.js",
+    "static/js/787.5fd385bd.chunk.js": "/web3-metamask/static/js/787.5fd385bd.chunk.js",
+    "index.html": "/web3-metamask/index.html",
+    "main.66670165.css.map": "/web3-metamask/static/css/main.66670165.css.map",
+    "main.65c15123.js.map": "/web3-metamask/static/js/main.65c15123.js.map",
+    "787.5fd385bd.chunk.js.map": "/web3-metamask/static/js/787.5fd385bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66670165.css",
+    "static/js/main.65c15123.js"
+  ]
+}
